@@ -1,7 +1,7 @@
 # FBLA-Look-
 
 Software used for creation: Android Studio V.1.5.1 [IDE based on  IntelliJ IDEA] [Gradle-based build system]
-Used Java for activities, functions, and organization. XML for interface design and layout, and Parse for backend.
+<p>Used Java for activities, functions, and organization. XML for interface design and layout, and Parse for backend. </p>
 --- More Informations about Java, XML, and Parse:
      - http://www.oracle.com/technetwork/java/index-138747.html [Java Programming language]
      - https://www.java.com/en/download/  [Latest Java][* When the app was created, I have Java Ver.8 Update 71]
