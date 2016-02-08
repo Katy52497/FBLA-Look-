@@ -10,7 +10,7 @@
      - https://parse.com/docs/android/guide [Documentation, API References, and tutorials on the use of Parse]
      [ItelliJ :  https://www.jetbrains.com/idea/ ]
 
-Images and Icons:
+<p>Images and Icons:</p>
 
 <p>App Logo Designed by Katy Ching with Bud Icons Free graphic by <a href="http://buditanrim.co">Budi Tanrim</a> from <a href="http://www.flaticon.com/">Flaticon</a> is licensed under <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0">CC BY 3.0</a>. Made with <a href="http://logomakr.com" title="Logo Maker">Logo Maker</a>
 </p>
